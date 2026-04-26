@@ -36,53 +36,31 @@ Note: Final 10–20 minutes are winding mountain roads (plan buffer time)
 # WINTER ACCESS & SNOWSHOEING
 
 ## Road Access (General Rule)
-- Gold Lake Highway: **Closed in winter**
-- Packer Lake Road: **Closed**
+- Gold Lake Highway: Closed in winter
+- Packer Lake Road: Closed
 - Access typically stops at lower elevations (near Highway 49)
 
-👉 Result:
-- **None of the listed trailheads are directly drivable in winter**
-
----
+Result:
+- None of the listed trailheads are directly drivable in winter
 
 ## Snowshoeing Potential
 
 ### Sardine Lakes Area
-- Yes, but:
-  - Requires long approach due to road closures
-  - Better suited for experienced groups
-- Popular with backcountry users, not ideal for young scouts
-
----
+- Yes, but requires long approach due to road closures
+- Better suited for experienced groups
 
 ### Upper Salmon / Deer Lake
-- Yes (forest terrain is good for snow travel)
-- Access:
-  - Requires snowshoeing several miles just to reach trailheads
-- Use case:
-  - Intermediate winter recreation
-
----
+- Yes (good forest terrain)
+- Requires several miles of approach before reaching trails
 
 ### Sierra Buttes (Packer Saddle)
-- Very popular for:
-  - Snowshoeing
-  - Backcountry skiing
+- Popular for snowshoeing and backcountry skiing
+- Long approach + steep terrain
 
-BUT:
-- Long approach due to road closures
-- Significant elevation gain
-- Exposure risks in winter conditions
-
-👉 Not appropriate for Tiger Scout-level groups in winter
-
----
-
-## Practical Winter Takeaway
-- Area becomes a **backcountry winter zone**
-- No easy-access snowshoe trails from these specific trailheads
-- For young scouts:
-  - Better to choose locations closer to plowed roads (e.g., Donner Summit)
+Practical takeaway:
+- Area becomes a backcountry winter zone
+- Not appropriate for Tiger Scout-level groups in winter
+- Better alternative: Donner Summit area (plowed access)
 
 ---
 
@@ -92,7 +70,7 @@ BUT:
 - Must be:
   - Leashed in developed areas (campgrounds, trailheads)
   - Under control elsewhere
-- Bring water for dogs (very limited sources late season)
+- Bring water for dogs (limited late season)
 
 ---
 
@@ -105,6 +83,9 @@ BUT:
 - Distance: 1–2 miles
 - Elevation gain: 100–300 ft
 - Difficulty: Easy
+
+## Estimated Hiking Time
+- 30–60 minutes (flexible, depending on how far you explore)
 
 ## Camping
 ### Developed:
@@ -131,13 +112,12 @@ Reserve at:
 - https://www.recreation.gov
 
 Reservation difficulty:
-- High demand (small campground)
+- High demand
 - Book 2–3 months ahead for weekends
-- Last-minute: unlikely but cancellations happen
+- Last-minute: unlikely but cancellations possible
 
 ## Winter Status
 - Road closed
-- Campground inaccessible
 - Snowshoe-only access (long approach)
 
 ---
@@ -151,6 +131,9 @@ Reservation difficulty:
 - Distance: 1.5–2 miles
 - Elevation gain: 200–400 ft
 - Difficulty: Easy
+
+## Estimated Hiking Time
+- 45–75 minutes round trip
 
 ## Camping
 ### Developed:
@@ -170,7 +153,7 @@ Reservation difficulty:
 
 ## Winter Status
 - Road closed
-- Access requires long snowshoe approach
+- Snowshoe-only access (long approach)
 - No maintained winter trail
 
 ---
@@ -184,6 +167,9 @@ Reservation difficulty:
 - Distance: 3.5–4 miles
 - Elevation gain: 600–900 ft
 - Difficulty: Moderate
+
+## Estimated Hiking Time
+- 2–3 hours round trip
 
 ## Camping
 ### Developed:
@@ -202,7 +188,7 @@ Facilities:
 - Water: Usually not reliable
 
 ## Fees / Reservations
-- Some sites reservable, some first-come (varies seasonally)
+- Some reservable, some first-come (varies seasonally)
 - Moderate demand
 
 Strategy:
@@ -226,7 +212,6 @@ Strategy:
 ### Base of stairs (recommended for scouts)
 - Distance: 4.5–5 miles round trip
 - Elevation gain: 1,400–1,600 ft
-- Time: ~2.5–3 hours
 
 ### Full summit (with stairs)
 - Distance: 4.8–6 miles round trip
@@ -235,6 +220,14 @@ Strategy:
 Note:
 - Final section includes ~180 steep metal stairs on an exposed cliff
 - This portion is optional
+
+## Estimated Hiking Time
+
+### Base of stairs
+- ~2.5–3 hours round trip
+
+### Full summit
+- ~3–4 hours round trip
 
 ## Camping
 
@@ -259,7 +252,7 @@ Note:
 - Road closed
 - Popular for backcountry snowshoeing and skiing
 - Long approach required
-- Not appropriate for young scouts in winter
+- Not appropriate for young scouts
 
 ---
 
@@ -320,18 +313,24 @@ Best contact for:
 # SIMPLE PLAN
 
 Day 1:
+- Drive: ~2 hr 15–20 min
 - Arrive late morning
 - Set up camp
-- Short hike (Sardine or Salmon)
+- Short hike (Sardine or Salmon, ~30–60 min)
 
 Day 2:
 - Early start
-- Sierra Buttes (turnaround at stairs)
+- Sierra Buttes hike (~2.5–3 hrs to base of stairs)
+- Return + pack up
 
 ---
 
 # KEY TAKEAWAY
 
-- Summer/Fall: excellent, accessible, flexible
-- Winter: road closures + backcountry access only
-- Not beginner-friendly in winter conditions
+- Drive time: ~2.25 hours from Sacramento
+- Hike times range:
+  - Easy hikes: ~30–75 minutes
+  - Moderate hikes: ~2–3 hours
+  - Sierra Buttes: ~2.5–4 hours depending on turnaround
+- Summer/Fall: ideal conditions
+- Winter: backcountry only, not beginner-friendly
